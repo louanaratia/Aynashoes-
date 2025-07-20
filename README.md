@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sole Squad Shoes</title>
+  <title>Ay na shoes</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -106,7 +106,7 @@
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Running+Shoe+1" alt="Running Shoe 1">
+      <img src="IMG_20250720_022306_858.jpg" alt="Running Shoe 1">
       <h3>Running Shoe</h3>
       <p>₱2,299</p>
       <button>Add to Cart</button>
